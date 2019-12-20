@@ -1,2 +1,0 @@
-# proxyGo
-Created with CodeSandbox

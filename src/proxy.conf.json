@@ -1,0 +1,11 @@
+{
+  "/v1-3/": {
+    "/signin/": {
+      "/password/*": {
+        "target": "https://api-dev.gospace.com",
+        "secure": false,
+        "changeOrigin": true
+      }
+    }
+  }
+}
